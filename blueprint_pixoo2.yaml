@@ -2,7 +2,7 @@
 blueprint:
   name: Send Text to Pixoo264
   description: Send text to the Pixoo264 - 4 lines, each can be their own color.
-  source_url: /homeassistant/blueprint_pixoo2.yaml
+  source_url: https://github.com/egerol/homeassistant-blueprints/blob/main/blueprint_pixoo2.yaml
   domain: automation
   input:
     text_line_1:
